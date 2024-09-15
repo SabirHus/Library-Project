@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getNumberOfPages()
+comment1.params=
+comment1.target=java.lang.String\ getPublisher()
+comment2.params=numberOfPages
+comment2.target=void\ setNumberOfPages(int)
+comment3.params=publisher
+comment3.target=void\ setPublisher(java.lang.String)
+comment4.params=scanner
+comment4.target=void\ readData(java.util.Scanner)
+comment5.params=
+comment5.target=void\ printDetails()
+numComments=6

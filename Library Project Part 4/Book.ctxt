@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getAuthor()
+comment1.params=
+comment1.target=java.lang.String\ getIsbn()
+comment2.params=author
+comment2.target=void\ setAuthor(java.lang.String)
+comment3.params=isbn
+comment3.target=void\ setIsbn(java.lang.String)
+comment4.params=scanner
+comment4.target=void\ readData(java.util.Scanner)
+comment5.params=
+comment5.target=void\ printDetails()
+numComments=6

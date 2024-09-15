@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getPlayingTime()
+comment1.params=playingTime
+comment1.target=void\ setPlayingTime(int)
+comment2.params=scanner
+comment2.target=void\ readData(java.util.Scanner)
+comment3.params=
+comment3.target=void\ printDetails()
+numComments=4

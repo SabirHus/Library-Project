@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getTitle()
+comment1.params=
+comment1.target=java.lang.String\ getItemCode()
+comment10.params=scanner
+comment10.target=void\ readData(java.util.Scanner)
+comment11.params=
+comment11.target=void\ printDetails()
+comment2.params=
+comment2.target=int\ getCost()
+comment3.params=
+comment3.target=int\ getTimesBorrowed()
+comment4.params=
+comment4.target=boolean\ getOnLoan()
+comment5.params=title
+comment5.target=void\ setTitle(java.lang.String)
+comment6.params=itemCode
+comment6.target=void\ setItemCode(java.lang.String)
+comment7.params=cost
+comment7.target=void\ setCost(int)
+comment8.params=timesBorrowed
+comment8.target=void\ setTimesBorrowed(int)
+comment9.params=onLoan
+comment9.target=void\ setOnLoan(boolean)
+numComments=12
